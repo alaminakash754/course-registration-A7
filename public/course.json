@@ -1,0 +1,76 @@
+[
+      {
+        "id": 1,
+        "course_image": "https://i.ibb.co/tpnzLhB/python.png",
+        "programming_course_title": "Introduction to Python",
+        "course_description": "Learn the basics of Python programming language.",
+        "course_price": 49.99,
+        "course_credit": 6
+      },
+      {
+        "id": 2,
+        "course_image": "https://i.ibb.co/hH9xk1b/web.webp",
+        "programming_course_title": "Web Development Fundamentals",
+        "course_description": "Get started with web development using HTML, CSS, and JavaScript.",
+        "course_price": 59.99,
+        "course_credit": 10
+      },
+      {
+        "id": 3,
+        "course_image": "https://i.ibb.co/wrbqtkY/java.webp",
+        "programming_course_title": "Java Programming Advanced",
+        "course_description": "Dive deep into Java programming with advanced concepts and applications.",
+        "course_price": 79.99,
+        "course_credit": 7
+      },
+      {
+        "id": 4,
+        "course_image": "https://i.ibb.co/BskL1Hy/mobile.jpg",
+        "programming_course_title": "Mobile App Development with React Native",
+        "course_description": "Build mobile apps using React Native framework for iOS and Android.",
+        "course_price": 69.99,
+        "course_credit": 9
+      },
+      {
+        "id": 5,
+        "course_image": "https://i.ibb.co/JBDXqGt/data-science.png",
+        "programming_course_title": "Data Science with Python",
+        "course_description": "Explore data analysis and machine learning with Python.",
+        "course_price": 89.99,
+        "course_credit": 5
+      },
+      {
+        "id": 6,
+        "course_image": "https://i.ibb.co/sWzJ3Tq/front.jpg",
+        "programming_course_title": "JavaScript for Front-End Development",
+        "course_description": "Master JavaScript for building interactive web applications.",
+        "course_price": 49.99,
+        "course_credit": 8
+      },
+      {
+        "id": 7,
+        "course_image": "https://i.ibb.co/8bTKhxB/c.png",
+        "programming_course_title": "C++ Programming Essentials",
+        "course_description": "Learn the fundamentals of C++ programming language.",
+        "course_price": 59.99,
+        "course_credit": 4
+      },
+      {
+        "id": 8,
+        "course_image": "https://i.ibb.co/4sPvTFy/full-stack.jpg",
+        "programming_course_title": "Full-Stack Web Development with Node.js",
+        "course_description": "Become a full-stack developer with Node.js, Express, and MongoDB.",
+        "course_price": 79.99,
+        "course_credit": 12
+      },
+      {
+        "id": 9,
+        "course_image": "https://i.ibb.co/6P5bpG9/full-stack.png",
+        "programming_course_title": "Python for Data Science and Machine Learning",
+        "course_description": "Use Python for data analysis, visualization, and machine learning.",
+        "course_price": 69.99,
+        "course_credit": 15
+      }
+]
+
+  
