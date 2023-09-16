@@ -6,10 +6,10 @@ import { FiDollarSign } from 'react-icons/fi';
 const Course = ({course, handleAddToCourseCart}) => {
     const {programming_course_title, course_image,course_description,course_price,course_credit} = course
     return (
-        <div className='h-96 rounded-lg'>
+        <div className='h-80 rounded-lg bg-white p-2'>
             <img className='w-full h-36 mb-2 rounded-lg' src={course_image} alt={`course picture of the title ${course_image}`}  />
-            <h2 className='text-lg font-bold mb-2'>{programming_course_title}</h2>
-            <p className='text-sm font-normal mb-2'>{course_description}</p>
+            <h2 className='text-base font-bold mb-2'>{programming_course_title}</h2>
+            <p className='text-xs font-normal mb-2'>{course_description}</p>
             <div className='flex mb-2 justify-between'>
                 <div>
                     <button><FiDollarSign></FiDollarSign></button>    

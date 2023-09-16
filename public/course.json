@@ -13,7 +13,7 @@
         "programming_course_title": "Web Development",
         "course_description": "Get started with web development using HTML, CSS, and JavaScript.",
         "course_price": 59.99,
-        "course_credit": 10
+        "course_credit": 5
       },
       {
         "id": 3,
@@ -29,7 +29,7 @@
         "programming_course_title": "Mobile App Development",
         "course_description": "Build mobile apps using React Native framework for iOS and Android.",
         "course_price": 69.99,
-        "course_credit": 9
+        "course_credit": 4
       },
       {
         "id": 5,
@@ -61,7 +61,7 @@
         "programming_course_title": "Full-Stack with Node.js",
         "course_description": "Become a full-stack developer with Node.js, Express, and MongoDB.",
         "course_price": 79.99,
-        "course_credit": 12
+        "course_credit": 8
       },
       {
         "id": 9,
@@ -69,7 +69,7 @@
         "programming_course_title": "AWS, Cloud Computing",
         "course_description": "Use Python for data analysis, visualization, and machine learning.",
         "course_price": 69.99,
-        "course_credit": 15
+        "course_credit": 3
       }
 ]
 
