@@ -1,8 +1,9 @@
 import { useEffect } from "react";
 import { useState } from "react";
 import Course from "../Course/Course";
+import PropTypes from 'prop-types';
 
-const Courses = () => {
+const Courses = ({handleAddToCourseCart}) => {
 
     const [courses, setCourses] = useState([]);   
 
@@ -18,10 +19,14 @@ const Courses = () => {
                 courses.map(course => <Course 
                     key={course.id} 
                     course={course}
+                    handleAddToCourseCart={handleAddToCourseCart}
                     ></Course>)
             }
         </div>
     );
 };
 
+Courses.propTypes = {
+    handleAddToCourseCart: PropTypes.func
+}
 export default Courses;

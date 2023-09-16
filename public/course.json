@@ -10,7 +10,7 @@
       {
         "id": 2,
         "course_image": "https://i.ibb.co/hH9xk1b/web.webp",
-        "programming_course_title": "Web Development Fundamentals",
+        "programming_course_title": "Web Development",
         "course_description": "Get started with web development using HTML, CSS, and JavaScript.",
         "course_price": 59.99,
         "course_credit": 10
@@ -26,7 +26,7 @@
       {
         "id": 4,
         "course_image": "https://i.ibb.co/BskL1Hy/mobile.jpg",
-        "programming_course_title": "Mobile App Development with React Native",
+        "programming_course_title": "Mobile App Development",
         "course_description": "Build mobile apps using React Native framework for iOS and Android.",
         "course_price": 69.99,
         "course_credit": 9
@@ -42,7 +42,7 @@
       {
         "id": 6,
         "course_image": "https://i.ibb.co/sWzJ3Tq/front.jpg",
-        "programming_course_title": "JavaScript for Front-End Development",
+        "programming_course_title": "Front-End Development",
         "course_description": "Master JavaScript for building interactive web applications.",
         "course_price": 49.99,
         "course_credit": 8
@@ -58,7 +58,7 @@
       {
         "id": 8,
         "course_image": "https://i.ibb.co/4sPvTFy/full-stack.jpg",
-        "programming_course_title": "Full-Stack Web Development with Node.js",
+        "programming_course_title": "Full-Stack with Node.js",
         "course_description": "Become a full-stack developer with Node.js, Express, and MongoDB.",
         "course_price": 79.99,
         "course_credit": 12
@@ -66,7 +66,7 @@
       {
         "id": 9,
         "course_image": "https://i.ibb.co/6P5bpG9/full-stack.png",
-        "programming_course_title": "Python for Data Science and Machine Learning",
+        "programming_course_title": "AWS, Cloud Computing",
         "course_description": "Use Python for data analysis, visualization, and machine learning.",
         "course_price": 69.99,
         "course_credit": 15
