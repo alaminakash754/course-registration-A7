@@ -28,7 +28,7 @@ function App() {
         
         const totalRemainingCredit = 20 - count;
         if(count > 20){
-            return toast.error('you can not add more than 20 hours credit')
+            return toast.error('you can not buy more than 20 hours credit')
         }else{
           
           setRemainingCredit(totalRemainingCredit)
