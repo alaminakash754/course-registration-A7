@@ -14,11 +14,11 @@ const Course = ({course, handleAddToCourseCart}) => {
                 <div>
                     <button><FiDollarSign></FiDollarSign></button>    
                            
-                    <span className='ml-3'>Price: {course_price}</span>
+                    <span className='lg:ml-3 sm:m-0'>Price: {course_price}</span>
                 </div>
 
                 <div className='justify-center items-center'>
-                    <button className='mr-3'><BsBook></BsBook></button>
+                    <button className='lg:mr-3 sm:m-0'><BsBook></BsBook></button>
                     <span>Credit: {course_credit}hr</span>
                 </div>
             </div>
